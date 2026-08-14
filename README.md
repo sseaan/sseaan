@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi! I'm Sean.
 
-<!--
-**sseaan/sseaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # 👨‍💻 More About Me -->
 
-Here are some ideas to get you started:
+🤠 He / Him . 18-year-old.  
+🎈 Based in `China`  
+🤔 Languages: Native in `Chinese`, conversational in `English`  
+🌏 Major in `Software Engineer` at the `GDUT`(Guangdong University of Technology)  
+🛟 Enjoys surfing the `web` and discovering interesting and innovative software.  
+🎮 Enjoys playing `Zenless Zone Zero`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📫 Sites:
+
+| Site | URL |
+|------|-----|
+| Sean| https://www.ssean.cn |
+| Sean's BLog | https://blog.ssean.cn |
+| Sean's Memo | https://echo.ssean.cn |
+| SSE & AWA Server | https://sse.ssean.cn |
