@@ -5,7 +5,7 @@
 🤠 He / Him . 18-year-old.  
 🎈 Based in `China`  
 🤔 Languages: Native in `Chinese`, conversational in `English`  
-🌏 Major in `Software Engineer` at the `GDUT`(Guangdong University of Technology)  
+🌏 Major in `Computer Science and Technology` at the `GDUT`(Guangdong University of Technology)  
 🛟 Enjoys surfing the `web` and discovering interesting and innovative software.  
 🎮 Enjoys playing `Zenless Zone Zero`  
 
